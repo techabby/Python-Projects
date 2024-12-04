@@ -12,4 +12,4 @@ This repository caters to a wide range of interests and skill levels. Whether yo
 
 By completing these projects, you'll not only sharpen your programming skills but also build the confidence to tackle more advanced challenges. Python is a versatile and powerful language, and with consistent practice and guidance, you'll soon be ready to take on complex applications and real-world tasks.  
 
-So why wait? Start your Python journey today with our **Beginner and Intermediate Python Projects** repository and take the next step in your programming adventure. Happy coding!  
+So why wait? Start your Python journey today with our **Beginner and Intermediate Python Projects** repository and take the next step in your programming adventure. **Happy coding!** 
